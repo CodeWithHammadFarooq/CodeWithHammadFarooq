@@ -9,7 +9,7 @@
 
 - Replit [https://replit.com/@HammadFarooq6](https://replit.com/@HammadFarooq6)
 
-- LinkdIn [‎https://www.linkedin.com/in/hammad-farooq-4a67b2277](‎https://www.linkedin.com/in/hammad-farooq-4a67b2277)
+- LinkdIn [hammad-farooq-4a67b2277](hammad-farooq-4a67b2277)
 
 - 📫 How to reach me **hammadfarooq470@gmail.com**
 
