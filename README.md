@@ -13,9 +13,8 @@
 
 - 📫 How to reach me **hammadfarooq470@gmail.com**
 
-- My Resume [‎https://introwithhammad.netlify.app/](‎https://introwithhammad.netlify.app/)
 
-- ⚡ Fun fact **I am Tech Explorer**
+- ⚡ Fun fact **I am Macine Learning Engineer**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
