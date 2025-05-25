@@ -56,9 +56,3 @@
 🔗 LinkedIn: [Hammad Farooq](https://www.linkedin.com/in/hammad-farooq-4a67b2277/)  
 💻 GitHub: [CodeWithHammadFarooq](https://github.com/CodeWithHammadFarooq)  
 📊 Kaggle: [Hammad Farooq](https://www.kaggle.com/hammadfarooq470)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeWithHammadFarooq/CodeWithHammadFarooq/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeWithHammadFarooq/CodeWithHammadFarooq/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/CodeWithHammadFarooq/CodeWithHammadFarooq/output/github-snake.svg" />
-</picture>
