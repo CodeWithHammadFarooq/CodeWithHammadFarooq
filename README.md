@@ -1,11 +1,12 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/YourUsername/YourRepoName/main/banner_github.png" alt="GitHub Banner" style="width:100%;" />
+
 
 # 👋 Hello World!, I'm Hammad Farooq — a Machine Learning Engineer from Pakistan
 
 🎓 Currently pursuing **BS in Data Science** from Virtual University of Pakistan  
 💻 Machine Learning Intern @ **Arch Technologies** (Apr 2025 – May 2025)  
 📊 Passionate about **Data Science**, **Deep Learning**, and **AI-powered solutions**  
-📹 Just started sharing insights on my [YouTube channel](https://www.youtube.com/@CodeWithHammadFarooq)  
+📹 Just started sharing insights on my [YouTube channel](https://www.youtube.com/@Guidinglight-2747)  
 🌐 Building intelligent tools that solve real-world problems
 
 ---
@@ -37,19 +38,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-
----
-
-# 🧠 Recent Projects:
-
-🔹 [House Price Prediction](https://github.com/CodeWithHammadFarooq/House-Price-Prediction)  
-Built a regression model using scikit-learn to predict house prices.
-
-🔹 [MNIST & Custom Dataset Classification](https://github.com/CodeWithHammadFarooq/Classification-Fundamentals-and-MNIST-Digit-Recognition)  
-Trained multiple ML models on MNIST and extended the pipeline to custom digit datasets.
-
-🔹 [Brain Tumor Detection](https://github.com/CodeWithHammadFarooq/Brain_Tumor_Detection)  
-Developed a system using YOLO + SAM for detecting and segmenting brain tumors in MRI scans.
 
 ---
 
