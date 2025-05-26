@@ -1,7 +1,3 @@
-<img src="https://raw.githubusercontent.com/CodeWithHammadFarooq/portfolio/main/banner_github.png" alt="GitHub Banner" style="width:100%;" />
-
-
-
 # 👋 Hello World!, I'm Hammad Farooq — a Machine Learning Engineer from Pakistan
 
 🎓 Currently pursuing **BS in Data Science** from Virtual University of Pakistan  
