@@ -10,8 +10,6 @@
 
 # 🛠️ Tech Stack & Tools:
 
-**Frameworks & Libraries:**  
-<h3>🚀 Tech Stack</h3>
 
 <div align="center">
 
