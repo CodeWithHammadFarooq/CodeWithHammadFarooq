@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/YourUsername/YourRepoName/main/banner_github.png" alt="GitHub Banner" style="width:100%;" />
+<img src="https://raw.githubusercontent.com/CodeWithHammadFarooq/portfolio/main/banner_github.png" alt="GitHub Banner" style="width:100%;" />
+
 
 
 # 👋 Hello World!, I'm Hammad Farooq — a Machine Learning Engineer from Pakistan
