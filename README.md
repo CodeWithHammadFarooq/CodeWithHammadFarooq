@@ -1,4 +1,5 @@
-# 👋 Hello World!, I'm Hammad Farooq — a Machine Learning Engineer from Pakistan
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello World!, I'm Hammad Farooq — a Machine Learning Engineer from Pakistan
+
 
 🎓 Currently pursuing **BS in Data Science** from Virtual University of Pakistan  
 💻 Machine Learning Intern @ **Arch Technologies** (Apr 2025 – May 2025)  
