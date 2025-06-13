@@ -1,5 +1,8 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello World!, I'm Hammad Farooq — a Machine Learning Engineer from Pakistan
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi There!, I'm Hammad Farooq — a Machine Learning Engineer from Pakistan
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div id="badges">
 
 🎓 Currently pursuing **BS in Data Science** from Virtual University of Pakistan  
 💻 Machine Learning Intern @ **Arch Technologies** (Apr 2025 – May 2025)  
